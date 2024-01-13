@@ -1,7 +1,7 @@
 # wb-sseries_battery
 Waybar plugin to show battery status for Steel Series Rival wireless mouse. Plugins als indicates when the mouse is charging.
 
-+ copy file to the Waybar script directory **./config/waybar/scripts**
++ copy file **sseries_battery.sh** to the Waybar script directory **./config/waybar/scripts**
 + add next settings to your Waybar config file as follows:
 
         "custom/razer-battery": {
